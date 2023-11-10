@@ -1,0 +1,103 @@
+.head1 {
+    margin-top: 7rem;
+    margin-left: 5rem;
+    margin-bottom: 5rem;
+}
+
+.top {
+    display: flex;
+}
+
+.top-img {
+    max-width: 500px;
+}
+
+.top-text {
+    max-width: 1200px;
+    margin-left: 5.5rem;
+}
+
+.top-header {
+    font-size: 4rem;
+    font-weight: 800;
+}
+
+.top-info {
+    font-size: 1.375rem;
+    padding-top: 0.4rem;
+}
+
+.skill-con {
+    margin-top: 4rem;
+}
+
+.skill-text {
+    font-size: 4rem;
+    font-weight: 800;
+
+}
+
+.group-logo {
+    display: grid;
+    grid-template-columns: 9rem 9rem 9rem 9rem;
+}
+
+.skill-logo {
+    max-width: 75px;
+    margin-top: 1rem;
+    /* margin-right: 1rem; */
+}
+
+@media screen and (max-width: 480px) {
+    .head1 {
+        margin-left: 0;
+        
+    }
+
+    .top {
+        flex-direction: column;
+        margin-left: 0;
+    }
+
+    .top-img {
+        max-width: 17rem;
+        max-height: 20rem;
+        align-self: center;
+    }
+
+    .top-text {
+        margin-left: 0;
+        padding-left: 3rem;
+        /* text-align: center; */
+    }
+
+    .top-header {
+        padding-top: 1rem;
+        font-size: 2rem;
+        font-weight: 800;
+    }
+
+    .top-info {
+        font-size: 1rem;
+        padding-right: 0.5rem;
+    }
+
+    .skill-text {
+        padding-top: 1rem;
+        font-size: 2rem;
+        font-weight: 800;
+    }
+
+    .skill-con {
+        margin: 0;
+    }
+
+    .skill-logo {
+        max-width: 3.125rem;
+    }
+
+    .group-logo {
+        display: grid;
+        grid-template-columns: 5rem 5rem 5rem 5rem;
+    }
+}
