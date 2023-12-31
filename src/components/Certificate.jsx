@@ -20,6 +20,11 @@ function Certificates() {
             </div>
 
             <div>
+              <img src='./cer/engineeringquest.jpg'></img>
+              <p className='c-info'>Engineering Quest at KMUTT</p>
+            </div>
+
+            <div>
               <img src='./cer/CS_camp_page-0001.jpg'></img>
               <p className='c-info'>CS Camp 15 at KMITL</p>
             </div>
@@ -33,11 +38,6 @@ function Certificates() {
               <img src='./cer/bg22comp.jpg'></img>
               <p className='c-info'>Thailand Board Game Championship2022</p>
             </div>
-
-            {/* <div>
-              <img src='https://marketplace.canva.com/EAFNlUJs5g4/2/0/1600w/canva-white-simple-certificate-of-appreciation-Fcz7KkZ5YaU.jpg'></img>
-              <p className='c-info'>Thailand Board Game Championship2023</p>
-            </div> */}
 
             <div>
               <img src='./cer/lab_page-0001.jpg'></img>
@@ -82,10 +82,10 @@ function Certificates() {
               <p className='c-info'>Online Gifted Camp 2021</p>
             </div>
 
-            {/* <div>
+            <div>
               <img src='./cer/TGAT_pretest.jpg'></img>
               <p className='c-info'>Pretest-TGAT by Dek-D</p>
-            </div> */}
+            </div>
 
             <div>
               <img src='./cer/TPAT3_pretest.jpg'></img>
