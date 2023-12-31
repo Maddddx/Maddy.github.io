@@ -26,12 +26,12 @@ function Projects() {
           </div>
 
           <div>
-            <a href='/'><img className='clone' src='./Project_img/mytcas_clone2.jpg'></img></a>
+            <a href='https://github.com/Maddddx/mytcas.clone'><img className='clone' src='./Project_img/mytcas_clone2.jpg'></img></a>
             <p className='P-info'>Mytcas clone</p>
           </div>
 
           <div>
-            <a href='/'><img className='clone' src='./Project_img/my_web.jpg'></img></a>
+            <a href='https://github.com/Maddddx/Maddy.github.io'><img className='clone' src='./Project_img/my_web.jpg'></img></a>
             <p className='P-info'>Personal Portfolio Website</p>
           </div>
 
