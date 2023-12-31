@@ -9,19 +9,19 @@ function Projects() {
         <div className='P-box'>
 
           <div>
-            <a href='/'><img src='./Project_img/!sir.jpg'></img></a>
+            <a href='https://github.com/Maddddx'><img src='./Project_img/!sir.jpg'></img></a>
             <p className='twop-info'>SIR Model and LSTM to predict covid-19 case</p>
             <p className='P-mobile-info'>SIR Model and LSTM to</p>
             <p className='P-mobile-info'>Predict covid-19 case</p>
           </div>
 
           <div>
-            <a href='/'><img src='./Project_img/titanic1.jpg'></img></a>
+            <a href='https://github.com/Maddddx'><img src='./Project_img/titanic1.jpg'></img></a>
             <p className='P-info'>Predict Survived from Titanic</p>
           </div>
 
           <div>
-            <a href='/'><img src='./Project_img/insurance.jpg'></img></a>
+            <a href='https://github.com/Maddddx'><img src='./Project_img/insurance.jpg'></img></a>
             <p className='P-info'>Insurance Charge Prediction</p>
           </div>
 
@@ -36,7 +36,7 @@ function Projects() {
           </div>
 
           <div>
-            <a href='/'><img src='./Project_img/tk.jpg'></img></a>
+            <a href='https://github.com/Maddddx'><img src='./Project_img/tk.jpg'></img></a>
             <p className='P-info'>Whiteboard by Tkinter Python</p>
           </div>
 
