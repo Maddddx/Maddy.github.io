@@ -24,8 +24,8 @@ function Home() {
             <div className='social'>
               <a href='https://github.com/Maddddx' target='_blank' rel='noopender noreferrer'><i class="fab fa-github"></i></a>
               <a href='https://www.instagram.com/narakorn.z/' target='_blank' rel='noopender noreferrer'><i class="fab fa-instagram"></i></a> 
-              <a href='#' target='_blank' rel='noopender noreferrer'><i class="fab fa-twitter"></i></a>
-              <a href='#' target='_blank' rel='noopender noreferrer'><i class="far fa-envelope"></i></a>
+              <a href='https://twitter.com/hmm_Madd' target='_blank' rel='noopender noreferrer'><i class="fab fa-twitter"></i></a>
+              <a href='mailto:narakorn0a@gmail.com' target='_blank' rel='noopender noreferrer'><i class="far fa-envelope"></i></a>
             </div>
           </div>
           <div className='content-img'>
