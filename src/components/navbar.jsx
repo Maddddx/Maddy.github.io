@@ -17,7 +17,7 @@ function Navbar() {
             <div className="nav">
                 <div className="header-con">
                     <div className="logo">
-                        <a href='/'><img src='./!!!logo5.png'></img></a>
+                        <a href='https://maddddx.github.io/Maddy.github.io/'><img src='./!!!logo5.png'></img></a>
                     </div>
 
                     <ul className={click ? "menu active" : "menu"}>
